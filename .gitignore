@@ -1,0 +1,15 @@
+# Credenciales
+.env
+
+# Sesiones de Telegram
+*.session
+*.session-journal
+bot_session*
+
+# Base de datos
+clientes.json
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
